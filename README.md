@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Henrique+Araújo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## ⛩️ About Me:
-👨‍💻 20 years old<br>🌎 Belém, Pará, Brazil <br>🏛️ Undergraduate student in Information Systems - Federal University of Rural Amazon (UFRA) (7th semester)<br>🖥️ Web Developer<br><br>
+👨‍💻 21 years old<br>🌎 Belém, Pará, Brazil <br>🏛️ Undergraduate student in Information Systems - Federal University of Rural Amazon (UFRA) (7th semester)<br>🖥️ Web Developer<br><br>
 
 <div align="center">
   <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=joaobhenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
