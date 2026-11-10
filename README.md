@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Henrique+Araújo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## ⛩️ About Me:
-👨‍💻 22 years old<br>🌎 Belém, Pará, Brazil <br>🏛️ Bachelor's degree in Information Systems from the Federal Rural University of the Amazon (UFRA)<br>🖥️ Web Developer | Full Stack Developer<br><br>
+👨‍💻 23 years old<br>🌎 Belém, Pará, Brazil <br>🏛️ Bachelor's degree in Information Systems from the Federal Rural University of the Amazon (UFRA)<br>📚 Currently pursuing a postgraduate degree in Cloud Computing Development and an MBA in Artificial Intelligence, Management, and Business.<br>🖥️ Web Developer | Full Stack Developer<br><br>
 
 <div align="center">
   <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=joaobhenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -70,6 +70,16 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</p>
+
+### 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaobhenrique/joaobhenrique/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaobhenrique/joaobhenrique/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/joaobhenrique/joaobhenrique/output/github-snake.svg" alt="Snake animation eating my GitHub contributions" />
+  </picture>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer"/>
